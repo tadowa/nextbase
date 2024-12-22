@@ -1,0 +1,37 @@
+# Node.jsモジュール
+node_modules/
+
+# Next.jsビルド成果物
+.next/
+out/
+
+# 環境設定ファイル
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ログファイル
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OSやエディタ固有のファイル
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# テスト関連
+coverage/
+.jest/
+*.snap
+
+# 一時ファイル
+*.bak
+*.tmp
+*.log

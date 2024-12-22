@@ -1,0 +1,33 @@
+# Git関連
+.git/
+.gitignore
+
+# Node.jsモジュール
+node_modules/
+
+# Next.jsビルド成果物
+.next/
+out/
+
+# 環境設定ファイル
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OSやエディタ固有のファイル
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# テスト関連
+coverage/
+.jest/
+*.snap
+
+# 一時ファイル
+*.bak
+*.tmp
+*.log
