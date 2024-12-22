@@ -1,0 +1,2 @@
+# nextbase
+next.jsをベースとしたリポジトリ
